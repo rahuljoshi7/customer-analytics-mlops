@@ -1,0 +1,12 @@
+{
+  "accuracy": 1.0,
+  "training_rows": 30,
+  "testing_rows": 10,
+  "features": [
+    "age",
+    "tenure_months",
+    "monthly_charges",
+    "support_tickets"
+  ],
+  "target": "churn"
+}
